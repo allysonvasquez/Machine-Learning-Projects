@@ -18,15 +18,15 @@ This repository will act as my roadmap through machine learning. I will be teach
 To keep myself organized, I will break down what I learn into the following outline...
 ## Essential Libraries
 While I am familiar with Python, I have little knowledge on the libraries needed to get into the meat of machine learning.
-Libraries I will be learning (I will be adding information as I learn these topics):
-* NumPy
-* SciPy
-* Matplotlib
+Libraries I will be learning (Links will be added as I complete notes):
+* [NumPy](/Libraries/NumPy.ipynb)
 * Pandas
+* Matplotlib
+* SciPy
+* PyTorch or TensorFlow
 * Sci-kit Learn
-* TensorFlow
 
-## Notes (JupyterNotebook)
+## Machine Learning (the meat!)
 These notes will primarily follow the O'Reilly books mentioned earlier. 
 (Links will be added as I go through the topics)
 
@@ -36,8 +36,6 @@ Rough outline of topics:
 * Training Dataset | Testing Dataset
 * Feature Extraction | Feature Selection
 * Noise | Outliers | Garbage Data
-
-
 
 ## Exercises
 Exercises will consist of small practice projects and various exercises I find online.
