@@ -2,6 +2,7 @@
 This repository will act as my roadmap through machine learning. I will be teaching myself through exercises, notes, & code that I take while reading and watching various videos.
 
 ### Materials Used
+* Book: [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
 * Book: [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 * Book: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
 * Youtube: [Corey Schafer](https://www.youtube.com/user/schafer5)
@@ -17,14 +18,24 @@ This repository will act as my roadmap through machine learning. I will be teach
 
 To keep myself organized, I will break down what I learn into the following outline...
 ## Essential Libraries
-While I am familiar with Python, I have little knowledge on the libraries needed to get into the meat of machine learning.
-Libraries I will be learning (Links will be added as I complete notes):
+While I am comfortable with Python, I have little knowledge on the libraries needed to get into the meat of machine learning.
+
+Notes on libraries I will be learning:
 * [NumPy](/Libraries/NumPy.ipynb)
-* Pandas
+* [Pandas](/Libraries/Pandas.ipynb)
 * Matplotlib
 * SciPy
 * PyTorch or TensorFlow
 * Sci-kit Learn
+
+## Data Analysis
+Exercises related to accessing, reading, and editing data.
+* Data Loading
+* Data Cleaning
+* Data Wrangling
+* Plotting & Visualization
+* Data Aggregation
+* Time Series Data
 
 ## Machine Learning (the meat!)
 These notes will primarily follow the O'Reilly books mentioned earlier. 
@@ -36,7 +47,3 @@ Rough outline of topics:
 * Training Dataset | Testing Dataset
 * Feature Extraction | Feature Selection
 * Noise | Outliers | Garbage Data
-
-## Exercises
-Exercises will consist of small practice projects and various exercises I find online.
-(Information will be added as I begin exercises)
