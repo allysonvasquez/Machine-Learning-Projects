@@ -21,10 +21,9 @@ To keep myself organized, I will break down what I learn into the following outl
 While I am comfortable with Python, I have little knowledge on the libraries needed to get into the meat of machine learning.
 
 Notes on libraries I will be learning:
-* [NumPy](/Libraries/NumPy.ipynb)
+* [NumPy/SciPy](/Libraries/NumPy.ipynb)
 * [Pandas](/Libraries/Pandas.ipynb)
-* Matplotlib
-* SciPy
+* [Matplotlib](/Libraries/Matplotlib.ipynb)
 * PyTorch or TensorFlow
 * Sci-kit Learn
 
