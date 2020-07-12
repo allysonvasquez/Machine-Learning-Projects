@@ -12,15 +12,14 @@ This repository will act as my roadmap through machine learning. I will be teach
 #### Prior courses taken that pertain to ML:
   * Data Structures
   * Logic & Algorithms
-  * Calculus
+  * Statistics
   * Linear Algebra
-  * Intro to AI
+  * Calculus I-II
+  * Artifical Intelligence
 
 To keep myself organized, I will break down what I learn into the following outline...
 ## Essential Libraries
-While I am comfortable with Python, I have little knowledge on the libraries needed to get into the meat of machine learning.
-
-Notes on libraries I will be learning:
+Notes on basic libraries needed for data analysis & visualization.
 * [NumPy/SciPy](/Libraries/NumPy.ipynb)
 * [Pandas](/Libraries/Pandas.ipynb)
 * [Matplotlib](/Libraries/Matplotlib.ipynb)
