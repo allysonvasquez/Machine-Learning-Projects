@@ -30,7 +30,7 @@ Notes on libraries I will be learning:
 ## Data Analysis
 Projects related to accessing, reading, and editing data.
 
-[UNCC Data Analysis](https://github.com/allysonvasquez/Machine-Learning-Roadmap/blob/master/Exercises/Lib_Exercises/uncc_data.png): Scraped UNCC student statistics into a pandas Series & visualized using matplotlib.
+[UNCC Data Analysis](/Exercises/Lib_Exercises/uncc_dataset.py): Scraped UNCC student statistics into a pandas Series & visualized using matplotlib.
 
 Future Projects:
 * Kaggle stuff
