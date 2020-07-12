@@ -1,5 +1,5 @@
 # Machine Learning Basics
-This repository will act as my roadmap through machine learning. I will be teaching myself through exercises, notes, & code that I take while reading and watching various videos.
+This repository will act as my roadmap through machine learning. I will be teaching myself through projects, notes, & code that I take while reading and watching various videos.
 
 ### Materials Used
 * Book: [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
@@ -28,16 +28,19 @@ Notes on libraries I will be learning:
 * Sci-kit Learn
 
 ## Data Analysis
-Exercises related to accessing, reading, and editing data.
-* Data Loading
-* Data Cleaning
-* Data Wrangling
+Projects related to accessing, reading, and editing data.
+
+[UNCC Data Analysis](https://github.com/allysonvasquez/Machine-Learning-Roadmap/blob/master/Exercises/Lib_Exercises/uncc_data.png): Scraped UNCC student statistics into a pandas Series & visualized using matplotlib.
+
+Future Projects:
+* Kaggle stuff
+* Data Loading, cleaning, wrangling
 * Plotting & Visualization
 * Data Aggregation
 * Time Series Data
 
 ## Machine Learning (the meat!)
-These notes will primarily follow the O'Reilly books mentioned earlier. 
+These notes/projects will primarily follow the O'Reilly books mentioned earlier. 
 (Links will be added as I go through the topics)
 
 Rough outline of topics:
