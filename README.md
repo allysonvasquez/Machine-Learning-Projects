@@ -29,7 +29,7 @@ Notes on basic libraries needed for data analysis & visualization.
 ## Data Analysis
 Projects related to accessing, reading, and editing data.
 
-[UNCC Data Analysis](/Exercises/Lib_Exercises/uncc_dataset.py): Scraped UNCC student statistics into a pandas Series & visualized using matplotlib.
+[UNCC Data Analysis](/Projects/UNCC_data/uncc_dataset.py): Scraped UNCC student statistics into a pandas Series & visualized using matplotlib.
 
 Future Projects:
 * Kaggle stuff
